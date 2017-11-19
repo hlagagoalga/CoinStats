@@ -1,9 +1,6 @@
 # CoinStats Cryptocurrenty Platform
 Coin Stats is a comprehensive data hub, which enables cryptocurrency traders to manage portfolios, simulate long and short term hold gains based on coin-specific time series LSTM models (machine learning), benefit from sophisticated charts such as MACD and Bollinger Band that are built on real-time multi exchange data. Our mission is to provide all-in-one data and machine learning solution on crypto-currencies for the growing trader base.
 
-
-You can use the [editor on GitHub](https://github.com/kashkalik/coinstats/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
 ## Team Members
 
 ### Arman Uygur
