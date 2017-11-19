@@ -16,11 +16,11 @@ Eight years of combined experience in software engineering and web development. 
 [Detailed Profile](https://www.linkedin.com/in/kevinleogao/)
 
 
-## Technology 
+## Our Technology 
 We will obtain the exchange data through both scraping and available APIs. Social media mentions, Google Search volumes and News mentions for each crypto-coin will also be scraped and passed through a Natural Language Processing algorithm to extract real-time semantic trends. Internal Machine Learning Algorithms (Ensemble of ARIMA, LSTM, GAN) will be constructed for each cryptocurrency as well as for exchanges.Those models will aid users to make trading decisions. Those models will also be a part of our ICO (Initial Coin Offering) evaluation tool.
 
 
-## Our Passion 
+## The Future 
 We are strong proponents of decentralizations, and rights to trade and make deals without a strong government intervention. All those reasons sparked a strong interest in the emerging field of crypto-currency and trading. As crypto-currency traders, we felt an immense pain to find the appropriate data for each coin that we are researching. There are multiple websites that provide some of the solutions we are offering. All of those are scattered over the internet. Since trading in this space is very time sensitive (unlike stocks, coins are very volatile, a 50% daily change in price is common), we believe an all-in-one data access is necessary. We also saw that there is not an adequate portfolio management and ICO research solution yet. Most traders are currently using some sort of excel-based portfolio tracker and ICO’s are primarily evaluated based on originality of the idea and team’s capabilities. Due to all those reasons, we decided to bring standardization to ICO evaluation, allow non-Data Scientists to use cutting edge machine learning models , aide traders to track their portfolios. Essentially, our goal is to become the Bloomberg of Crypto-currencies.
 
 
