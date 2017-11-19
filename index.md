@@ -9,14 +9,17 @@ You can use the [editor on GitHub](https://github.com/kashkalik/coinstats/edit/m
 
 ### Arman Uygur
 [Profile](https://www.linkedin.com/in/armanuygur/) 
+
 One year experience in product development and project management, three year experience in management consulting and data analysis. Currently getting his master’s in Data Science, with a focus on Machine Learning, and working for a management consulting company as research analyst.
 
 ### Alimu Mijiti
 [Profile](https://www.linkedin.com/in/alimu-mijiti-54934ba3/)
+
 Two year experience in software engineering and data science, received his master’s in Data Science from Columbia University, and he is currently working at Amazon as Data Scientist.
 
 ### Kevin Gao
 [Profile](https://www.linkedin.com/in/kevinleogao/)
+
 Eight years of combined experience in software engineering and web development. Currently getting his masters’ in Data Science and working for Microsoft Research as research software development engineer. 
 
 
