@@ -21,7 +21,7 @@ Eight years of combined experience in software engineering and web development. 
 
 
 ## Technology 
-
+We will obtain the exchange data through both scraping and available APIs. Social media mentions, Google Search volumes and News mentions for each crypto-coin will also be scraped and passed through a Natural Language Processing algorithm to extract real-time semantic trends. Internal Machine Learning Algorithms (Ensemble of ARIMA, LSTM, GAN) will be constructed for each cryptocurrency as well as for exchanges.Those models will aid users to make trading decisions. Those models will also be a part of our ICO (Initial Coin Offering) evaluation tool.
 
 
 You can use the [editor on GitHub](https://github.com/kashkalik/coinstats/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
