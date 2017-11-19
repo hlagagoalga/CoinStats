@@ -8,8 +8,7 @@ You can use the [editor on GitHub](https://github.com/kashkalik/coinstats/edit/m
 ## Team 
 
 ### Arman Uygur
-One year experience in product development and project management, three year experience in management consulting and data analysis. Currently getting his master’s in Data Science, with a focus on Machine Learning, and working for a management consulting company as research analyst.
-
+One year experience in product development and project management, three year experience in management consulting and data analysis. Currently getting his master’s in Data Science, with a focus on Machine Learning, and working for a management consulting company as research analyst.   
 [Profile](https://www.linkedin.com/in/armanuygur/) 
 
 ### Alimu Mijiti
